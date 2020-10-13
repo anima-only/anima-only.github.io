@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev.ANIMA</title>
+    <link>/</link>
+    <description>Recent content on Dev.ANIMA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 13 Oct 2020 21:28:42 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generated</title>
+      <link>/posts/generated/</link>
+      <pubDate>Tue, 13 Oct 2020 21:28:42 +0900</pubDate>
+      
+      <guid>/posts/generated/</guid>
+      <description>만들어졌다</description>
+    </item>
+    
+  </channel>
+</rss>
