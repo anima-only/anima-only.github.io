@@ -6,7 +6,19 @@
     <description>Recent content on Dev.anima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 13 Oct 2020 21:28:42 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2020 08:36:26 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>댓글</title>
+      <link>/posts/%EB%8C%93%EA%B8%80%EB%A7%8C%EB%93%AC/</link>
+      <pubDate>Wed, 14 Oct 2020 08:36:26 +0900</pubDate>
+      
+      <guid>/posts/%EB%8C%93%EA%B8%80%EB%A7%8C%EB%93%AC/</guid>
+      <description>utterances 를 이용해 댓글 기능을 만들었다. 원리는 Github의 이슈API를 사용해 댓글을 쓸 때마다 이슈가 생기는것이다.
+댓글을 관리할 레포를 생성한다. 파일은 필요 없고 이슈만 필요하다. utterances 사이트에 만든 레포를 anima-only/blog-comments 식으로 써넣는다. (링크가 아니다)
+아래에 선택지가 있는데 번역 귀찮아서 그대로 복붙. 나는 Issue title contains page title 으로 선택했다
+그러면 아래에 스크립트가 자동으로 생성되는데 넣고 싶은 곳에 붙여넣어준다. 더 세분화 하고 싶었지만 귀차니즘 때문에 안했다 레포를 몇개나 만들어야하는거지</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
