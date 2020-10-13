@@ -8,22 +8,23 @@
     <language>ko-KR</language>
     <lastBuildDate>Tue, 13 Oct 2020 21:28:42 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 13 Oct 2020 21:28:42 +0900</pubDate>
+      
+      <guid>/about/</guid>
+      <description>여기는 어딘가요
+ 블로그 겸 일기  연락처
+ 깃헙: @anima-only 이메일: anima-only@outlook.kr  </description>
+    </item>
+    
+    <item>
       <title>Generated</title>
       <link>/posts/generated/</link>
       <pubDate>Tue, 13 Oct 2020 21:28:42 +0900</pubDate>
       
       <guid>/posts/generated/</guid>
       <description>만들어졌다</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>연락처
- 깃헙: @anima-only 이메일: anima-only@outlook.kr  </description>
     </item>
     
   </channel>
